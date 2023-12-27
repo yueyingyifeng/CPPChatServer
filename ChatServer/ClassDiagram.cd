@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConfigFile">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAFCAAAAQAAAgCAAAAIAAAAAIAAAAAAAAAgAAAAIAQA=</HashCode>
+      <FileName>IO\ConfigFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Server">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACMAAAAAAAAAACAAAKwAgAAAAARAAAQAAiAAABI=</HashCode>
+      <FileName>Net\ChatServer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConfigManager">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAgAAgAAAAAAEAAAAAAAACAAAAAAAIAhA=</HashCode>
+      <FileName>IO\ConfigManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="User">
+    <Position X="4.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Entity\User.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
