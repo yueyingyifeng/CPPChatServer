@@ -81,7 +81,6 @@ vector<int> Server::getClientFDs()
 
 Server::~Server()
 {
-
 	for (SOCKET s : client_sockets) 
 		closesocket(s);
 

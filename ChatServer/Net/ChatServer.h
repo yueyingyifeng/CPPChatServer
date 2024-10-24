@@ -1,7 +1,4 @@
 #pragma once
-
-#include <thread>
-#include <mutex>
 #include <vector>
 #include <winsock2.h>
 #include <WS2tcpip.h>

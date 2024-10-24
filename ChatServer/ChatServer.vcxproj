@@ -164,6 +164,7 @@
     <ClInclude Include="IO\ConfigManager.h" />
     <ClInclude Include="Net\Code.cpp" />
     <ClInclude Include="Entity\User.h" />
+    <ClInclude Include="Util\ThreadPool.h" />
     <ClInclude Include="Util\Log.h" />
   </ItemGroup>
   <ItemGroup>
